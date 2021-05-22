@@ -31,7 +31,7 @@ class Charts extends Component {
                 localStorage.setItem('memoryName',memoeyInfo.name)
                 localStorage.setItem('memorySpace',memoeyInfo.space)
             }))
-        var pusher = new Pusher('baf5b8d4cf953b96f1e2', {
+        var pusher = new Pusher('dkfjgnkdmfgneliurndkmfg', {
             cluster: 'us2'
         });
 
